@@ -1,8 +1,6 @@
 <a name="readme-top"></a>
 
 <div align="center">
- 
-
 
   <h3><b>Microverse README Template</b></h3>
 
@@ -30,7 +28,13 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Hello_World] <a name="Hello World!"></a>
+## 💻 Getting Started <a name="HTML"></a>
+
+        Hello Microverse!
+
+       [Setup](#Linter)
+
+# 📖 [Hello_Microverse] <a name="Hello Microverse!"></a>
 
 > Describe your project in 1 or 2 sentences.
 
